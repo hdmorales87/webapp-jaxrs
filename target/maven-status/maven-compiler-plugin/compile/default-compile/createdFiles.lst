@@ -1,0 +1,7 @@
+org\hmorales\webapp\jaxws\controllers\CursoRestController.class
+org\hmorales\webapp\jaxws\services\CursoServiceImpl.class
+org\hmorales\webapp\jaxws\repositories\CursoRepositoryImpl.class
+org\hmorales\webapp\jaxws\services\CursoService.class
+org\hmorales\webapp\jaxws\ProducerEntityManager.class
+org\hmorales\webapp\jaxws\models\Curso.class
+org\hmorales\webapp\jaxws\repositories\CursoRepository.class
